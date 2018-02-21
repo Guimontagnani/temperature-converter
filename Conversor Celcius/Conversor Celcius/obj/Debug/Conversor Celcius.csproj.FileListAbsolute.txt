@@ -1,0 +1,20 @@
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\bin\Debug\Conversor Celcius.exe.config
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\bin\Debug\Conversor Celcius.exe
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\bin\Debug\Conversor Celcius.pdb
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor_Celcius.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.exe
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.pdb
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor_Celcius.Form_Celsius.resources
+C:\Users\Guilherme\Desktop\Projetos Portfólio\BMI Calculator\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor_Celcius.Form_Farenheit.resources
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\bin\Debug\Conversor Celcius.exe.config
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.exe
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.pdb
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\bin\Debug\Conversor Celcius.exe
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\bin\Debug\Conversor Celcius.pdb
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor_Celcius.Form_Celsius.resources
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor_Celcius.Form_Farenheit.resources
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor_Celcius.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Projetos Portfólio\Converter\Conversor Celcius\Conversor Celcius\obj\Debug\Conversor Celcius.csproj.GenerateResource.Cache
